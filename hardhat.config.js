@@ -12,9 +12,9 @@ module.exports = {
     //   url: "",
     //   accounts: [process.env.pk]
     // },
-    // polygon: {
-    //   url: "",
-    //   accounts: [process.env.pk]
-    // }
+    polygon: {
+      url: "https://polygon-mainnet.infura.io/v3/583d04c136d14aeba43edcb97aee2059",
+      accounts: [process.env.pk],
+    },
   },
 };
